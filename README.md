@@ -2,7 +2,7 @@
 
 I build small Android apps for real problems. Solo dev, learning as I go.
 
-Right now I'm working on **Grove** — a minimalist habit tracker where your streaks grow a fractal tree. Built it for myself, sharing it in case it helps someone else too.
+Right now I'm working on **Grove**; a minimalist habit tracker where your streaks grow a fractal tree. Built it for myself, sharing it in case it helps someone else too.
 
 ---
 
