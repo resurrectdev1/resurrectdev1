@@ -8,7 +8,7 @@ Right now I'm working on **Grove**; a minimalist habit tracker where your streak
 
 ## projects
 
-- 🌲 [Grove](https://github.com/annresurrect/grove) — minimalist fractal habit & sobriety tracker for Android
+- 🌲 [Grove](https://github.com/resurrectdev1/Grove) — minimalist fractal habit & sobriety tracker for Android
 
 ---
 
