@@ -1,8 +1,8 @@
-# hey, I'm Resurrect 🌱
+# Hello, I'm Resurrect 🌱
 
-I build small Android apps for real problems. Solo dev, learning as I go.
+I love FOSS
 
-Right now I'm working on **Grove**; a minimalist habit tracker where your streaks grow a fractal tree. Built it for myself, sharing it in case it helps someone else too.
+Right now I'm working on **Grove**; My latest and greatest project. It's a habit tracker with the main concept revolving around trees and the longer you stay clean the bigger and more full of life your tree gets!
 
 ---
 
@@ -18,6 +18,6 @@ Flutter · Dart · Android
 
 ---
 
-If something I made helped you, no pressure but:
+If something I made helped you, no pressure but ;)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/resurrect)
