@@ -8,7 +8,7 @@ Right now I'm working on **Grove**; My latest and greatest project. It's a habit
 
 ## projects
 
-- 🌲 [Grove](https://github.com/resurrectdev1/Grove) A minimalist fractal habit & sobriety tracker for Android.
+- 🌲 [Grove](https://github.com/resurrectdev1/Grove); Visiualize your growth.
 
 ---
 
