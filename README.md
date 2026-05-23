@@ -10,9 +10,9 @@ I also plan on making a geniuenly good FOSS flac and mp3 tag editor for android.
 
 ## projects
 
-- 🌲 [Grove](https://github.com/resurrectdev1/Grove); Visiualize your growth.
+- 🌲 [Grove](https://github.com/resurrectdev1/Grove) - Visiualize your growth.
 
-- 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R); COMING SOON (Maybe late june)
+- 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - COMING SOON (Maybe late june)
 
 ---
 
