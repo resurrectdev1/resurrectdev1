@@ -4,6 +4,8 @@ I love FOSS
 
 Right now I'm working on **Grove**; My latest and greatest project. It's a habit tracker with the main concept revolving around trees and the longer you stay clean the bigger and more full of life your tree gets!
 
+I also plan on making a geniuenly good FOSS flac and mp3 tag editor for android. Since there isnt really a good one out there...
+
 ---
 
 ## projects
