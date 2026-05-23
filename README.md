@@ -18,7 +18,7 @@ I also plan on making a geniuenly good FOSS flac and mp3 tag editor for android.
 
 ## stack
 
-Flutter · Dart · Android
+Flutter · Dart · Android · Java
 
 ---
 
