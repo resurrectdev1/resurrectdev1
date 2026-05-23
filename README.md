@@ -10,7 +10,7 @@ Right now I'm working on **Grove**; My latest and greatest project. It's a habit
 
 - 🌲 [Grove](https://github.com/resurrectdev1/Grove); Visiualize your growth.
 
-- 🌲 [Flac-R](https://github.com/resurrectdev1); COMING SOON
+- 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R); COMING SOON (Maybe late june)
 
 ---
 
