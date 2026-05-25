@@ -31,3 +31,5 @@ I also plan on making a geniuenly good FOSS flac and mp3 tag editor for android.
 If something I made helped you, no pressure but ;)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/resurrect)
+
+![Shu Kurenai](./assets/shu_kurenai.gif)
