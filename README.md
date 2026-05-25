@@ -1,4 +1,4 @@
-# Hello, I'm Resurrect 🌱
+# Hello, I'm Resurrect 🧟‍♂️
 
 I love FOSS
 
