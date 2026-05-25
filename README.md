@@ -18,11 +18,13 @@ I also plan on making a geniuenly good FOSS flac and mp3 tag editor for android.
 
 ## stack
 
+<p>
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="25" />
+</p>
 
 ---
 
