@@ -12,9 +12,11 @@ I also plan on making a geniuenly good FOSS flac and mp3 tag editor for android.
 
 - 🌲 [Grove](https://github.com/resurrectdev1/Grove) - Visiualize your growth. ⋆.ೃ࿔.𖥔 ݁ ˖*:･༄
 
-- 🖼️ [Gallery-R](https://github.com/resurrectdev1) - Planned in the future ✎ᝰ.ᐟ⋆⑅˚₊
+- 🖼️ [Gallery-R](https://github.com/resurrectdev1) - Planned in the future. ✎ᝰ.ᐟ⋆⑅˚₊
 
-- 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - COMING SOON (Maybe late june) ♫⋆｡♪ ₊˚♬ ﾟ.
+- 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - COMING SOON. (Maybe late june) ♫⋆｡♪ ₊˚♬ ﾟ.
+
+- 🥛 [Flac-R](https://github.com/resurrectdev1) - My milkdrop presets.
 
 ---
 
