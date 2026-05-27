@@ -18,8 +18,6 @@ I also plan on making a geniuenly good FOSS flac and mp3 tag editor for android.
 
 - 🥛 [Milkdrop Project](https://github.com/resurrectdev1/MyMilkdropPresets) - My milkdrop presets. ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
-Emojis: https://emoj.info/milk
-
 ---
 
 ## stack
