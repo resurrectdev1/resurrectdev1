@@ -14,6 +14,8 @@ I also plan on making a geniuenly good FOSS flac and mp3 tag editor for android.
 
 - 🖼️ [Swipe-R](https://github.com/resurrectdev1) - Planned in the future. (COMING SOON) ✎ᝰ.ᐟ⋆⑅˚₊
 
+- 🎧 [Lrc-R](https://github.com/resurrectdev1) - Planned in the future. (COMING SOON) ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
+
 - 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Your flac your way. (COMING SOON) ♫⋆｡♪ ₊˚♬ ﾟ.
 
 - 🥛 [Milkdrop Project](https://github.com/resurrectdev1/MyMilkdropPresets) - My milkdrop presets. ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
