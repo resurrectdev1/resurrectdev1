@@ -2,9 +2,7 @@
 
 I love FOSS
 
-Right now I'm working on **Grove**; My latest and greatest project. It's a habit tracker with the main concept revolving around trees and the longer you stay clean the bigger and more full of life your tree gets!
-
-I also plan on making a geniuenly good FOSS flac and mp3 tag editor for android. Since there isnt really a good one out there...
+Right now I gave **Grove** its *BIGGEST* update yet and on the side I have been working on another cool project called Flac-R... Flac-R is a android music tag editor so if you are seeing this then both apps should be live *RIGHT NOW* so go try them out and help contribute to a better android experience for everyone :)
 
 ---
 
@@ -16,7 +14,7 @@ I also plan on making a geniuenly good FOSS flac and mp3 tag editor for android.
 
 - 🎧 [Lrc-R](https://github.com/resurrectdev1) - Planned in the future. (COMING SOON) ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
 
-- 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Your flac your way. (COMING SOON) ♫⋆｡♪ ₊˚♬ ﾟ.
+- 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Take control of your music library. ♫⋆｡♪ ₊˚♬ ﾟ.
 
 - 🥛 [Milkdrop Project](https://github.com/resurrectdev1/MyMilkdropPresets) - My milkdrop presets. ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
