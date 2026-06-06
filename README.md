@@ -12,7 +12,7 @@ Right now I gave **Grove** its *BIGGEST* update yet and on the side I have been 
 
 - 🖼️ [Swipe-R](https://github.com/resurrectdev1) - Planned in the future. (COMING SOON) ✎ᝰ.ᐟ⋆⑅˚₊
 
-- 🎧 [Lrc-R](https://github.com/resurrectdev1) - Planned in the future. (COMING SOON) ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
+- 🎧 [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Perceive your music. (Being Developed) ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
 
 - 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Take control of your music library. ♫⋆｡♪ ₊˚♬ ﾟ.
 
