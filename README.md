@@ -2,7 +2,7 @@
 
 I love FOSS
 
-Right now I gave **Grove** its *BIGGEST* update yet and on the side I have been working on another cool project called Flac-R... Flac-R is a android music tag editor so if you are seeing this then both apps should be live *RIGHT NOW* so go try them out and help contribute to a better android experience for everyone :)
+Grove just got its *BIGGEST* update yet, and I've also been working on a new project called Flac-R; an Android music tag editor. If you're seeing this, both apps are live **RIGHT NOW**. Go try them out and help make Android better for everyone :)
 
 ---
 
