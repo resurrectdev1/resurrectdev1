@@ -12,7 +12,7 @@ Grove just got its *BIGGEST* update yet, and I've also been working on a new pro
 
 - 🖼️ [Swipe-R](https://github.com/resurrectdev1) - Planned in the future. (COMING SOON) ✎ᝰ.ᐟ⋆⑅˚₊
 
-- 🎧 [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Perceive your music. (Being Developed) ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
+- 🎧 [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Read the rhythm. (Being Developed) ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
 
 - 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Perfect your collection. ♫⋆｡♪ ₊˚♬ ﾟ.
 
