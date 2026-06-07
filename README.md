@@ -14,7 +14,7 @@ Grove just got its *BIGGEST* update yet, and I've also been working on a new pro
 
 - 🎧 [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Perceive your music. (Being Developed) ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
 
-- 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Take control of your music library. ♫⋆｡♪ ₊˚♬ ﾟ.
+- 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Perfect your collection. ♫⋆｡♪ ₊˚♬ ﾟ.
 
 - 🥛 [Milkdrop Project](https://github.com/resurrectdev1/MyMilkdropPresets) - My milkdrop presets. ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
