@@ -36,7 +36,7 @@ Grove just got its *BIGGEST* update yet, and I've also been working on a new pro
 
 ---
 
-If something I made helped you, no pressure but ;)
+If anything I made has helped you, please consider supporting the development :)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/resurrect)
 
