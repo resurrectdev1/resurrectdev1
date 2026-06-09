@@ -8,7 +8,7 @@ Grove just got its *BIGGEST* update yet, and I've also been working on a new pro
 
 ## projects
 
-- 🌲 [Grove](https://github.com/resurrectdev1/Grove) - Visiualize your growth. ⋆.ೃ࿔.𖥔 ݁ ˖*:･༄
+- 🌲 [Grove](https://github.com/resurrectdev1/Grove) - Visualize your growth. ⋆.ೃ࿔.𖥔 ݁ ˖*:･༄
 
 - 🖼️ [Swipe-R](https://github.com/resurrectdev1) - Planned in the future. (COMING SOON) ✎ᝰ.ᐟ⋆⑅˚₊
 
@@ -24,6 +24,10 @@ Grove just got its *BIGGEST* update yet, and I've also been working on a new pro
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=0175C2" alt="Dart" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" alt="Kotlin" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" height="25" />
 &nbsp;
