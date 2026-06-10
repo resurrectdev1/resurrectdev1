@@ -10,11 +10,11 @@ Grove just got its *BIGGEST* update yet, and I've also been working on a new pro
 
 - 🌲 [Grove](https://github.com/resurrectdev1/Grove) - Visualize your growth. ⋆.ೃ࿔.𖥔 ݁ ˖*:･༄
 
-- 🖼️ [Swipe-R](https://github.com/resurrectdev1) - Planned in the future. (Being Developed) ✎ᝰ.ᐟ⋆⑅˚₊
-
 - 🎧 [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Read the rhythm. ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
 
 - 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Perfect your collection. ♫⋆｡♪ ₊˚♬ ﾟ.
+
+- 🖼️ [Swipe-R](https://github.com/resurrectdev1) - Planned in the future. (Being Developed) ✎ᝰ.ᐟ⋆⑅˚₊
 
 - 🥛 [Milkdrop Project](https://github.com/resurrectdev1/MyMilkdropPresets) - My milkdrop presets. ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
