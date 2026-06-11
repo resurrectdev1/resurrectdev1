@@ -44,4 +44,4 @@ If anything I made has helped you, please consider supporting the development :)
 
 ---
 
-![Shu Kurenai](./assets/shu_kurenai.gif)
+![Shu Kurenai](https://raw.githubusercontent.com/resurrectdev1/resurrectdev1/main/assets/shu_kurenai.gif)
