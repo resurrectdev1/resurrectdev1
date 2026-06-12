@@ -14,8 +14,6 @@ I love FOSS
 
 - 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Perfect your collection. ♫⋆｡♪ ₊˚♬ ﾟ.
 
-- 🖼️ [Swipe-R](https://github.com/resurrectdev1) - Planned in the future. (Being Developed) ✎ᝰ.ᐟ⋆⑅˚₊
-
 - 🥛 [Milkdrop Project](https://github.com/resurrectdev1/MyMilkdropPresets) - My milkdrop presets. ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
 ---
