@@ -10,9 +10,10 @@ I love FOSS
 
 - 🌲 [Grove](https://github.com/resurrectdev1/Grove) - Visualize your growth. ⋆.ೃ࿔.𖥔 ݁ ˖*:･༄
 
-- 🎧 [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Read the rhythm. ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
-
 - 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Perfect your collection. ♫⋆｡♪ ₊˚♬ ﾟ.
+
+
+- 🎧 [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Read the rhythm. ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
 
 - 🥛 [Milkdrop Project](https://github.com/resurrectdev1/MyMilkdropPresets) - My milkdrop presets. ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
