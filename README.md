@@ -2,7 +2,7 @@
 
 I love FOSS
 
-**Flac-R** just got a *SUBSTAINTIAL* update, and **Lrc-R** is finally live! If you're passionate about FOSS and music, go check out the latest builds. Drop a star if you like them!
+**Grove** Just got its biggest update yet! Make sure to check it out aswell as my other apps, **Flac-R** & **Lrc-R** if you like music.
 
 ---
 
