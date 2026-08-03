@@ -2,7 +2,7 @@
 
 I love FOSS
 
-**Grove** Just got its biggest update yet! Make sure to check it out aswell as my other apps, **Flac-R** & **Lrc-R** if you like music.
+Currently working on 2 super secret but super cool mega projects & if you love android/FOSS Make sure to check out my other projects **Grove,** **Flac-R** **&** **Lrc-R.**
 
 ---
 
