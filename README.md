@@ -13,6 +13,8 @@ Currently working on 2 super secret but super cool mega projects & if you love a
 - 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Perfect your collection. ♫⋆｡♪ ₊˚♬ ﾟ.
 
 - 🎧 [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Read the rhythm. ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
+  
+- 📱 [Xperi-R](https://github.com/resurrectdev1/Lrc-R) - Xpand the feature set of your Xperia. . ₊˚ ☎︎₊˚✧ ﾟ.
 
 ---
 
