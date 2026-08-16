@@ -2,7 +2,7 @@
 
 I love FOSS
 
-Currently working on 2 super secret but super cool mega projects & if you love android/FOSS Make sure to check out my other projects **Grove,** **Flac-R** **&** **Lrc-R.**
+Currently working on 3~4 super secret but super cool mega projects not released to the public yet and make sure if you love android/FOSS to check out my other projects **Grove,** **Flac-R,****Lrc-R.** **&** **Xperi-R**
 
 ---
 
