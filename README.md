@@ -14,7 +14,7 @@ Currently working on 2 super secret but super cool mega projects & if you love a
 
 - 🎧 [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Read the rhythm. ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
   
-- 📱 [Xperi-R](https://github.com/resurrectdev1/Lrc-R) - Xpand the feature set of your Xperia. . ₊˚ ☎︎₊˚✧ ﾟ.
+- 📱 [Xperi-R](https://github.com/resurrectdev1/Xperi-R) - Xpand the feature set of your Xperia. . ₊˚ ☎︎₊˚✧ ﾟ.
 
 ---
 
