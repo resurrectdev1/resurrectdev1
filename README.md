@@ -16,6 +16,8 @@ Currently working on 3~4 super secret but super cool mega projects not released 
   
 - 📱 [Xperi-R](https://github.com/resurrectdev1/Xperi-R) - Xpand the feature set of your Xperia. . ₊˚ ☎︎₊˚✧ ﾟ.
 
+- 🤖 [Project Lophis](https://github.com/resurrectdev1/Project-Lophis) - Truth, Reality, Heaven, Hardship. .𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.
+
 ---
 
 ## stack
