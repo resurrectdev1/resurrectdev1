@@ -40,7 +40,7 @@ Currently working on 2~3 super secret but super cool projects not released to th
 
 ## support
 
-If anything I made has helped you, please consider supporting the development :)
+If anything I made has helped you, please consider supporting development :)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/resurrect)
 
