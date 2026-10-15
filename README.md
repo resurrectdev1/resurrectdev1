@@ -1,12 +1,12 @@
 # Hello, I'm Resurrect 🌱
 
-I love FOSS
+I love FOSS!
 
-Currently working on 2~3 super secret but super cool projects not released to the public yet; also if you love android/FOSS like me then make sure to check out my other projects **Grove,** **Flac-R,** **Lrc-R,** **Launch-R,** **&** **Xperi-R**
+Currently working on 2~3 super secret but super cool projects 👀
 
 ---
 
-## projects
+## Projects
 
 <img src="https://raw.githubusercontent.com/resurrectdev1/Grove/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; [Grove](https://github.com/resurrectdev1/Grove) - Visualize your growth. ⋆.ೃ࿔.𖥔 ݁ ˖*:･༄
 
@@ -22,7 +22,7 @@ Currently working on 2~3 super secret but super cool projects not released to th
 
 ---
 
-## stack
+## Stack
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter" height="25" />
@@ -38,7 +38,7 @@ Currently working on 2~3 super secret but super cool projects not released to th
 
 ---
 
-## support
+## Support
 
 If anything I made has helped you, please consider supporting development :)
 
