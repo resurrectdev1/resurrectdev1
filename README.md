@@ -8,15 +8,15 @@ Currently working on 2~3 super secret but super cool projects not released to th
 
 ## projects
 
-<img src="https://raw.githubusercontent.com/resurrectdev1/Grove/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; 🌲 [Grove](https://github.com/resurrectdev1/Grove) - Visualize your growth. ⋆.ೃ࿔.𖥔 ݁ ˖*:･༄
+<img src="https://raw.githubusercontent.com/resurrectdev1/Grove/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; [Grove](https://github.com/resurrectdev1/Grove) - Visualize your growth. ⋆.ೃ࿔.𖥔 ݁ ˖*:･༄
 
-<img src="https://raw.githubusercontent.com/resurrectdev1/Flac-R/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; 🎵 [Flac-R](https://github.com/resurrectdev1/Flac-R) - Perfect your collection. ♫⋆｡♪ ₊˚♬ ﾟ.
+<img src="https://raw.githubusercontent.com/resurrectdev1/Flac-R/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; [Flac-R](https://github.com/resurrectdev1/Flac-R) - Perfect your collection. ♫⋆｡♪ ₊˚♬ ﾟ.
 
-<img src="https://raw.githubusercontent.com/resurrectdev1/Lrc-R/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; 🎧 [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Read the rhythm. ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
+<img src="https://raw.githubusercontent.com/resurrectdev1/Lrc-R/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; [Lrc-R](https://github.com/resurrectdev1/Lrc-R) - Read the rhythm. ↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇
 
-<img src="https://raw.githubusercontent.com/resurrectdev1/Launch-R/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; 🏠 [Launch-R](https://github.com/resurrectdev1/Launch-R) - Find your space. 𖡼.𖤣𖥧 𖠿 𖡼.𖤣𖥧
+<img src="https://raw.githubusercontent.com/resurrectdev1/Launch-R/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; [Launch-R](https://github.com/resurrectdev1/Launch-R) - Find your space. 𖡼.𖤣𖥧 𖠿 𖡼.𖤣𖥧
 
-<img src="https://raw.githubusercontent.com/resurrectdev1/Xperi-R/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; 📱 [Xperi-R](https://github.com/resurrectdev1/Xperi-R) - Xpand the feature set of your Xperia. . ₊˚ ☎︎₊˚✧ ﾟ.
+<img src="https://raw.githubusercontent.com/resurrectdev1/Xperi-R/main/assets/app_icon.png" width="32" height="32" alt="" />&nbsp; [Xperi-R](https://github.com/resurrectdev1/Xperi-R) - Xpand the feature set of your Xperia. . ₊˚ ☎︎₊˚✧ ﾟ.
 
 🤖 [Project Lophis](https://github.com/resurrectdev1/Project-Lophis) - Truth, Reality, Heaven, Hardship. .𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.
 
